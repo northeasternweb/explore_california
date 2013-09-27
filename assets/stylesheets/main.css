@@ -199,7 +199,7 @@ span.accent {
 }
 #mainContent {
   float: right;
-  width: 740px;
+  width: 742px;
   margin-right: 25px;
   overflow: hidden;
 }
@@ -213,7 +213,7 @@ span.accent {
   background: #e1d8b9;
   clear:both;
   overflow: auto;
-  border-top: 1px solid #757575;
+  border-top: 1px solid #cc0000;
   height: 300px;
   width: 100%;
 }
